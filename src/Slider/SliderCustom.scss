@@ -1,0 +1,40 @@
+
+.arrow {
+  position: absolute;
+  top: -56px;
+  right: 10px;
+  z-index: 1;
+  cursor: pointer;
+}
+
+
+.arrow-left {
+    width: 33px;
+    height: 33px;
+    right: 60px;
+    border: 1px solid grey;
+    background-image: url('../img/arrow-left.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    
+  }
+  
+  .arrow-right {
+    width: 33px;
+    height: 33px;
+    border: 1px solid grey;
+    background-image: url('../img/arrow-right.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .disabled {
+    opacity: 0.5;
+    pointer-events: none;
+  }
+
+  .slider__custom {
+    max-width: 1136px;
+    width: 100%;
+  }
+

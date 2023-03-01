@@ -1,0 +1,25 @@
+@import "../_variables.scss";
+
+.card__list {
+    // border: 1px solid grey;
+    width: 1136px;
+    margin: 0 auto;
+    &--title {
+        font-size: 32px;
+        font-weight: 800;
+        color: $color__primary;
+        padding-bottom: 24px;
+    }
+}
+
+.container {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.two__sliders {
+    width: 1136px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
