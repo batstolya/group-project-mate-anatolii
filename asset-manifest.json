@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/group-project-mate-anatolii/static/css/main.bd581af1.css",
+    "main.css": "/group-project-mate-anatolii/static/css/main.f3435a01.css",
     "main.js": "/group-project-mate-anatolii/static/js/main.871eba7c.js",
     "static/js/651.b9d12945.chunk.js": "/group-project-mate-anatolii/static/js/651.b9d12945.chunk.js",
     "static/media/category-tablets.png": "/group-project-mate-anatolii/static/media/category-tablets.51782e18205a1ca01ce8.png",
@@ -27,12 +27,12 @@
     "index.html": "/group-project-mate-anatolii/index.html",
     "static/media/arrow-left.svg": "/group-project-mate-anatolii/static/media/arrow-left.de060c26b4a1b352283a.svg",
     "static/media/arrow-right.svg": "/group-project-mate-anatolii/static/media/arrow-right.a96d198de7ec6e137ad0.svg",
-    "main.bd581af1.css.map": "/group-project-mate-anatolii/static/css/main.bd581af1.css.map",
+    "main.f3435a01.css.map": "/group-project-mate-anatolii/static/css/main.f3435a01.css.map",
     "main.871eba7c.js.map": "/group-project-mate-anatolii/static/js/main.871eba7c.js.map",
     "651.b9d12945.chunk.js.map": "/group-project-mate-anatolii/static/js/651.b9d12945.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd581af1.css",
+    "static/css/main.f3435a01.css",
     "static/js/main.871eba7c.js"
   ]
 }
